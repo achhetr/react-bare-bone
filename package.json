@@ -1,0 +1,28 @@
+{
+	"name": "your-app-name",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "your name and email",
+	"license": "MIT",
+	"scripts": {
+		"build": "webpack --watch",
+		"dev-server": "webpack-dev-server"
+	},
+	"dependencies": {
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1",
+		"react-modal": "^3.11.2"
+	},
+	"devDependencies": {
+		"@babel/cli": "^7.11.6",
+		"@babel/core": "^7.11.6",
+		"@babel/preset-env": "^7.11.5",
+		"@babel/preset-flow": "^7.10.4",
+		"@babel/preset-react": "^7.10.4",
+		"babel-loader": "^8.1.0",
+		"babel-plugin-transform-class-properties": "^6.24.1",
+		"webpack": "^4.44.2",
+		"webpack-cli": "^3.3.12",
+		"webpack-dev-server": "^3.11.0"
+	}
+}
