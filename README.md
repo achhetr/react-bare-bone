@@ -7,7 +7,7 @@ This is a bare bone React project build from the scratch using babel and webpack
 Download the zip or run following command
 
 ```bash
-git clone https://github.com/achhetr/react-bare-bone.git
+git clone https://github.com/achhetr/react-bare-bone.git ./
 ```
 
 ## Usage
