@@ -1,11 +1,10 @@
 import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
-import { APP_NAME } from '../personalise/config';
+import Header from '../Header/Header';
+import HomePage from '../HomePage/Homepage';
 
 const MainApp = () => {
-	const Header = () => <h1>{APP_NAME}</h1>;
-	const HomePage = () => <h2>This is a React Bare Bone App</h2>;
 	return (
 		<BrowserRouter>
 			<div>
