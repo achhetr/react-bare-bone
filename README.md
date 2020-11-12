@@ -28,4 +28,4 @@ Pull requests are welcome.
 
 ## License
 
-MIT
+[MIT](https://github.com/achhetr/react-bare-bone/blob/master/license.txt)
