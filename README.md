@@ -1,6 +1,8 @@
 # React Bare Bone App
 
-This is a bare bone React project build from the scratch using babel and webpack tool
+This is a bare bone React project using create-react-app.
+
+In this project you will get redux state, private route, layout of header and footer.
 
 ## Installation
 
@@ -17,7 +19,7 @@ yarn install
 ```
 
 ```
-yarn run dev-server
+yarn start
 ```
 
 ## Contributing
