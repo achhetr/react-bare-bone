@@ -8,8 +8,11 @@ In this project you will get redux state, private route, layout of header and fo
 
 Download the zip or run following command
 
+-   Create a new folder
+-   Open Terminal and enter
+
 ```bash
-git clone https://github.com/achhetr/react-bare-bone.git ./
+git clone --depth 1 https://github.com/achhetr/react-bare-bone.git .
 ```
 
 ## Usage
