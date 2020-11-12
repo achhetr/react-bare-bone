@@ -1,6 +1,6 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import AppRouter from './AppRouter/AppRouter';
 
-import MainApp from './components/MainApp/MainApp';
+const App = () => <AppRouter />;
 
-ReactDOM.render(<MainApp />, document.getElementById('app'));
+export default App;
